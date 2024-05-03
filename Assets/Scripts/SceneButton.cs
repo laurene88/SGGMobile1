@@ -10,7 +10,7 @@ public class SceneButton : MonoBehaviour
         SceneManager.LoadScene(sceneNumber);
     }
 
-    public void ClickBackButton()
+    public void ChangeSceneToMenu()
     {
         SceneManager.LoadScene(0);
     }

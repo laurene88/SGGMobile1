@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/DeadAir.unity
     guid: 73eb3e8a46d2f5e4a924139446bbd15e
+  - enabled: 1
+    path: Assets/Scenes/QuestionBase.unity
+    guid: 8e21481688479a14b8520eee19c87d9c
   m_configObjects: {}
